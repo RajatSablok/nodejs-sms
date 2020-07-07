@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-sms",
+  "version": "1.0.0",
+  "description": "Send SMS via nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajatSablok/nodejs-sms.git"
+  },
+  "author": "Rajat Sablok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RajatSablok/nodejs-sms/issues"
+  },
+  "homepage": "https://github.com/RajatSablok/nodejs-sms#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nexmo": "^2.8.0",
+    "twilio": "^3.47.0"
+  }
+}
