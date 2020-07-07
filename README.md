@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-<!-- <a href="https://joshskills.akshatvg.com"> -->
-<img src="https://i.ibb.co/9HPLH3p/kaloory.jpg" alt="Kaloory Logo"/>
-</a>
-</p>
-
 ## Features
 
 - Easily send SMS via the Twilio API
